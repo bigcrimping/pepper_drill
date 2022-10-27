@@ -16,8 +16,9 @@ Mechanical file consist of the 3D printed cup and stem
 
 ![image](https://user-images.githubusercontent.com/74270551/180469690-c400faf5-be29-47e1-ac94-c15932e04281.png)
 
-Parts are connected together with a M5x20 or similar cap head bolt
+Parts are connected together with a M5x20 or similar cap head bolt and tap directly into the print material
 
+![image](https://user-images.githubusercontent.com/74270551/198307949-92698931-f2ad-4c37-98dc-6b5e921c4c88.png)
 
-
-
+The mould for the silicone contains three parts, a middle core and outer lip and groove parts.
+When casting I used a small bit of tape on the outside joining faces to keep the mould stable
